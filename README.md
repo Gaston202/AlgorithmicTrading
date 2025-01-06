@@ -5,6 +5,7 @@ Welcome to the Algorithmic Trading Repository! This repository is designed to pr
 ## Repository Structure
 
 The repository is organized as follows:
+```bash
 AlgorithmicTrading/
 ├── Strategies/ # Contains trading strategy implementations
 │ ├── BacktestIchimoku.py # Example strategy: Ichimoku Cloud Backtesting
@@ -16,7 +17,7 @@ AlgorithmicTrading/
 │ ├── BTC-USDTH4.csv # Example dataset: Bitcoin historical data
 │ └── ... # Add more datasets here
 ├── README.md # This file
-
+```
 
 Copy
 
