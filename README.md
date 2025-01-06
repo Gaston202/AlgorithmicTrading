@@ -19,7 +19,7 @@ AlgorithmicTrading/
 ├── README.md # This file
 ```
 
-Copy
+
 
 ## Getting Started
 
@@ -123,7 +123,7 @@ date,open,high,low,close,volume
 1633132800000,47200,48000,47000,47800,1200
 ...
 
-Copy
+
 
 ## Dependencies
 
@@ -138,21 +138,12 @@ Install them using:
 
 ```bash
 pip install pandas numpy matplotlib ta
-Contributing
-Contributions are welcome! If you'd like to add new strategies, improve existing ones, or enhance the visualization tools, please follow these steps:
+```
 
-Fork the repository.
-
-Create a new branch for your feature or bugfix.
-
-Commit your changes and push them to your fork.
-
-Submit a pull request with a detailed description of your changes.
-
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Thanks to the creators of the ta library for providing a comprehensive set of technical indicators.
 
 Inspired by various algorithmic trading frameworks and communities.
